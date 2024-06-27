@@ -30,9 +30,6 @@ const Home = () => {
   return (
     <div>
       <Hero />
-      <section id="viajes">
-        <EsPorFra />
-      </section>
       <section id="es-por-fr">
         <EsPorFra />
       </section>
